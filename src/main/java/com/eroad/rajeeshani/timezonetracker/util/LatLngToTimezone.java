@@ -24,7 +24,7 @@ public class LatLngToTimezone implements Function<LatLng, Optional<TimeZone>> {
 	@Autowired
 	private MessageSource messageSource;
 
-	private static final String API_KEY = "AIzaSyCkqpommkXUWR0xv-s-wjmYKpeNy3Qqd5Y";
+	private static final String API_KEY = "";
 	private static GeoApiContext context = new GeoApiContext().setApiKey(API_KEY);
 
 	@Override
