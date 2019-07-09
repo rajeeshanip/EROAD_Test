@@ -30,5 +30,7 @@ See example of CSV input and output below. We will then run this over several te
 
 Swagger documentation URL : http://localhost:8081/swagger-ui.html#/time-zone-tracker-controller/getTimeZoneUsingPOST
 
+API doc is attached as API_DOC.md
+
 NOTE : Please change the file download path in boostrap (file.upload.dir).properties to an accessible location
 	   The given application start port is 8081. If required can change the server.port property in boostrap.properties
